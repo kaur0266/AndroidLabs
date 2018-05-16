@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਲੈਬ 1</string>
+    <string name="hello_message">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ!</string>
+    <string name="ButtonText">ਮੈਂ ਇੱਕ ਬਟਨ ਹਾਂ</string>
+    <string name="Login">ਲਾਗਿਨ</string>
+    <string name="loginname">ਲਾਗਇਨ ਨਾਮ</string>
+    <string name="RadioButton">ਰੇਡੀਓਬਟਨ </string>
+    <string name="CheckBox">ਚੈਕਬੌਕਸ </string>
+    <string name="Switch">ਇਹ ਕੀ ਕਰਦਾ ਹੈ?</string>
+</resources>
